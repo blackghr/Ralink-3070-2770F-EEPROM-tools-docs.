@@ -1,3 +1,4 @@
+注意eFuse烧录是一次性的，改1后不能改0
 # Ralink-3070-2770F-EEPROM-tools-docs.
 https://xiaopan.co/forums/threads/ralink-3070-2770f-eeprom-tools-docs.6453/
 Just got my hands on this stuff from various places and put it all together, so don't ask me how it works fully yet. I don't have a clue yet either...
